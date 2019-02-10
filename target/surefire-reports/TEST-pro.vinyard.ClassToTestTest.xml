@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="pro.vinyard.ClassToTestTest" time="0.002" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="gopherProxySet" value="false"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/VinYarD/Documents/ISTIC/M2/VV/TestProject/target/test-classes:/Users/VinYarD/Documents/ISTIC/M2/VV/TestProject/target/classes/jassist:/Users/VinYarD/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/VinYarD/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/VinYarD/.m2/repository/fr/istic/vv/maven/javassist/javassist-maven-plugin/1.0-SNAPSHOT/javassist-maven-plugin-1.0-SNAPSHOT.jar:/Users/VinYarD/.m2/repository/org/apache/maven/maven-plugin-api/3.1.1/maven-plugin-api-3.1.1.jar:/Users/VinYarD/.m2/repository/org/apache/maven/maven-model/3.1.1/maven-model-3.1.1.jar:/Users/VinYarD/.m2/repository/org/apache/maven/maven-artifact/3.1.1/maven-artifact-3.1.1.jar:/Users/VinYarD/.m2/repository/org/eclipse/sisu/org.eclipse.sisu.plexus/0.0.0.M5/org.eclipse.sisu.plexus-0.0.0.M5.jar:/Users/VinYarD/.m2/repository/javax/enterprise/cdi-api/1.0/cdi-api-1.0.jar:/Users/VinYarD/.m2/repository/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar:/Users/VinYarD/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/VinYarD/.m2/repository/org/sonatype/sisu/sisu-guice/3.1.0/sisu-guice-3.1.0-no_aop.jar:/Users/VinYarD/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/VinYarD/.m2/repository/org/eclipse/sisu/org.eclipse.sisu.inject/0.0.0.M5/org.eclipse.sisu.inject-0.0.0.M5.jar:/Users/VinYarD/.m2/repository/org/apache/maven/maven-core/3.1.1/maven-core-3.1.1.jar:/Users/VinYarD/.m2/repository/org/apache/maven/maven-settings/3.1.1/maven-settings-3.1.1.jar:/Users/VinYarD/.m2/repository/org/apache/maven/maven-settings-builder/3.1.1/maven-settings-builder-3.1.1.jar:/Users/VinYarD/.m2/repository/org/apache/maven/maven-repository-metadata/3.1.1/maven-repository-metadata-3.1.1.jar:/Users/VinYarD/.m2/repository/org/apache/maven/maven-model-builder/3.1.1/maven-model-builder-3.1.1.jar:/Users/VinYarD/.m2/repository/org/apache/maven/maven-aether-provider/3.1.1/maven-aether-provider-3.1.1.jar:/Users/VinYarD/.m2/repository/org/eclipse/aether/aether-spi/0.9.0.M2/aether-spi-0.9.0.M2.jar:/Users/VinYarD/.m2/repository/org/eclipse/aether/aether-impl/0.9.0.M2/aether-impl-0.9.0.M2.jar:/Users/VinYarD/.m2/repository/org/eclipse/aether/aether-api/0.9.0.M2/aether-api-0.9.0.M2.jar:/Users/VinYarD/.m2/repository/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2.jar:/Users/VinYarD/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.19/plexus-interpolation-1.19.jar:/Users/VinYarD/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.jar:/Users/VinYarD/.m2/repository/org/codehaus/plexus/plexus-classworlds/2.5.1/plexus-classworlds-2.5.1.jar:/Users/VinYarD/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar:/Users/VinYarD/.m2/repository/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar:/Users/VinYarD/.m2/repository/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar:/Users/VinYarD/.m2/repository/com/google/guava/guava/16.0/guava-16.0.jar:/Users/VinYarD/.m2/repository/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.jar:/Users/VinYarD/.m2/repository/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar:"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="user.country" value="FR"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib"/>
+    <property name="sun.java.command" value="/Users/VinYarD/Documents/ISTIC/M2/VV/TestProject/target/surefire/surefirebooter640827414170700752.jar /Users/VinYarD/Documents/ISTIC/M2/VV/TestProject/target/surefire 2019-02-10T21-46-26_771-jvmRun1 surefire833230883998735638tmp surefire_07874381546705866457tmp"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="surefire.test.class.path" value="/Users/VinYarD/Documents/ISTIC/M2/VV/TestProject/target/test-classes:/Users/VinYarD/Documents/ISTIC/M2/VV/TestProject/target/classes/jassist:/Users/VinYarD/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/VinYarD/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/VinYarD/.m2/repository/fr/istic/vv/maven/javassist/javassist-maven-plugin/1.0-SNAPSHOT/javassist-maven-plugin-1.0-SNAPSHOT.jar:/Users/VinYarD/.m2/repository/org/apache/maven/maven-plugin-api/3.1.1/maven-plugin-api-3.1.1.jar:/Users/VinYarD/.m2/repository/org/apache/maven/maven-model/3.1.1/maven-model-3.1.1.jar:/Users/VinYarD/.m2/repository/org/apache/maven/maven-artifact/3.1.1/maven-artifact-3.1.1.jar:/Users/VinYarD/.m2/repository/org/eclipse/sisu/org.eclipse.sisu.plexus/0.0.0.M5/org.eclipse.sisu.plexus-0.0.0.M5.jar:/Users/VinYarD/.m2/repository/javax/enterprise/cdi-api/1.0/cdi-api-1.0.jar:/Users/VinYarD/.m2/repository/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar:/Users/VinYarD/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/VinYarD/.m2/repository/org/sonatype/sisu/sisu-guice/3.1.0/sisu-guice-3.1.0-no_aop.jar:/Users/VinYarD/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/VinYarD/.m2/repository/org/eclipse/sisu/org.eclipse.sisu.inject/0.0.0.M5/org.eclipse.sisu.inject-0.0.0.M5.jar:/Users/VinYarD/.m2/repository/org/apache/maven/maven-core/3.1.1/maven-core-3.1.1.jar:/Users/VinYarD/.m2/repository/org/apache/maven/maven-settings/3.1.1/maven-settings-3.1.1.jar:/Users/VinYarD/.m2/repository/org/apache/maven/maven-settings-builder/3.1.1/maven-settings-builder-3.1.1.jar:/Users/VinYarD/.m2/repository/org/apache/maven/maven-repository-metadata/3.1.1/maven-repository-metadata-3.1.1.jar:/Users/VinYarD/.m2/repository/org/apache/maven/maven-model-builder/3.1.1/maven-model-builder-3.1.1.jar:/Users/VinYarD/.m2/repository/org/apache/maven/maven-aether-provider/3.1.1/maven-aether-provider-3.1.1.jar:/Users/VinYarD/.m2/repository/org/eclipse/aether/aether-spi/0.9.0.M2/aether-spi-0.9.0.M2.jar:/Users/VinYarD/.m2/repository/org/eclipse/aether/aether-impl/0.9.0.M2/aether-impl-0.9.0.M2.jar:/Users/VinYarD/.m2/repository/org/eclipse/aether/aether-api/0.9.0.M2/aether-api-0.9.0.M2.jar:/Users/VinYarD/.m2/repository/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2.jar:/Users/VinYarD/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.19/plexus-interpolation-1.19.jar:/Users/VinYarD/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.jar:/Users/VinYarD/.m2/repository/org/codehaus/plexus/plexus-classworlds/2.5.1/plexus-classworlds-2.5.1.jar:/Users/VinYarD/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar:/Users/VinYarD/.m2/repository/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar:/Users/VinYarD/.m2/repository/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar:/Users/VinYarD/.m2/repository/com/google/guava/guava/16.0/guava-16.0.jar:/Users/VinYarD/.m2/repository/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.jar:/Users/VinYarD/.m2/repository/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/VinYarD"/>
+    <property name="user.language" value="fr"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre"/>
+    <property name="basedir" value="/Users/VinYarD/Documents/ISTIC/M2/VV/TestProject"/>
+    <property name="file.separator" value="/"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/Users/VinYarD/Documents/ISTIC/M2/VV/TestProject/target/surefire/surefirebooter640827414170700752.jar"/>
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/classes"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.runtime.version" value="1.8.0_161-b12"/>
+    <property name="user.name" value="VinYarD"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="10.14.1"/>
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="/Users/VinYarD/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/var/folders/63/fwgxjd0x62s1gtl71hvt6fm00000gn/T/"/>
+    <property name="idea.version" value="2018.1"/>
+    <property name="java.version" value="1.8.0_161"/>
+    <property name="user.dir" value="/Users/VinYarD/Documents/ISTIC/M2/VV/TestProject"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/Users/VinYarD/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.161-b12"/>
+    <property name="java.ext.dirs" value="/Users/VinYarD/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+  </properties>
+  <testcase name="setValue" classname="pro.vinyard.ClassToTestTest" time="0.002"/>
+  <testcase name="getValue" classname="pro.vinyard.ClassToTestTest" time="0"/>
+</testsuite>
